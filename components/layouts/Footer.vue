@@ -1,5 +1,5 @@
 <script setup>
-import { BloggerIcon, GitHubIcon } from 'vue3-simple-icons'
+import { GitHubIcon } from 'vue3-simple-icons'
 
 const email = ref(null)
 onMounted(() => {
